@@ -6,8 +6,8 @@ ___
 **Tanto nuestro sitio web como nuestra tienda están diseñados para atender a todo tipo de público. Comprendemos que cada persona tiene distintos gustos y preferencias, por eso contamos con una amplia variedad de opciones y marcas. Queremos satisfacer todas las necesidades de nuestros clientes, brindándoles una experiencia de compra excepcional.**
 
 ### Sitios de Referencia
-[Por los productos o servicios que ofrecen] (https://www.dsw.com/)
-[Por los clientes a los que apuntan] (https://www.sportline.com.ar/)
-[Por la estética que presentan] (https://www.dadoa.com.ar/indumentaria/buzos-y-sweaters)
-[Por las funcionalidades implementadas] (https://www.solodeportes.com.ar/)
+[Por los productos o servicios que ofrecen](https://www.dsw.com/)
+[Por los clientes a los que apuntan](https://www.sportline.com.ar/)
+[Por la estética que presentan](https://www.dadoa.com.ar/indumentaria/buzos-y-sweaters)
+[Por las funcionalidades implementadas](https://www.solodeportes.com.ar/)
 ___
