@@ -1,0 +1,22 @@
+{
+  "name": "grupo_3_indumentaria_y_calzado_dh",
+  "version": "1.0.0",
+  "description": "___\r ## ¿Que Ofrecemos?\r **En nuestro e-commerce, ofrecemos una amplia selección de ropa y calzado de marcas reconocidas y populares del mercado. Trabajamos con marcas como Adidas, Nike, Zara, Levi's y muchas más, para que puedas vestirte a tu manera. Ya sea que busques ropa deportiva de alta calidad, calzado cómodo y elegante, o prendas casuales para el día a día, tenemos todo lo que necesitas.**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0mgm/grupo_3_indumentaria_y_calzado_DH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0mgm/grupo_3_indumentaria_y_calzado_DH/issues"
+  },
+  "homepage": "https://github.com/0mgm/grupo_3_indumentaria_y_calzado_DH#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
